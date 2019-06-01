@@ -8,7 +8,6 @@ extern crate csv; // na parsování CSV
 extern crate chrono; // čas
 extern crate serde; // serializace/deserializace
 extern crate serde_derive; // makra pro ^
-extern crate yansi; // barvičky
 extern crate promptly; // cli prompt
 
 use promptly::*;
